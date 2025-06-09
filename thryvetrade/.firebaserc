@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "thryvetrade",
+    "firebase deploy": "thryvetrade"
+  },
+  "targets": {},
+  "etags": {}
+}
